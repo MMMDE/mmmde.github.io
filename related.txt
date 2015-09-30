@@ -1,0 +1,2 @@
+MFPS = Conference on the Mathematical Foundations of Programming Semantics
+CTCS = Category Theory for Computer Science
